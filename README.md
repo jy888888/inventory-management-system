@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jy888888/heroku-vmess-trojan-argo)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jy888888/inventory-management-system)
 
 ## 鸣谢
 
